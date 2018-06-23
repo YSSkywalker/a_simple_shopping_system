@@ -1,11 +1,11 @@
-# a_simple_shopping_system
-a super simple shopping system (in Japanese) as my first Python project
+# a Simple Shopping System
+a super simple shopping system (in _Japanese_) as my first Python project
 
-"script.py" is the main script.
+"__script.py__" is the main script.
 
-menu_item.py is a class that
-  returns a name of menu items and prices, and
-  returns the total price of items.
+"__menu_item.py__' is a class that
+  -returns a name of menu items and prices, and
+  -returns the total price of items.
 
-"food.py" and "drink.py" are classes that return informations of
-food menu and drink menu, which are inherited from "memu_item.py"
+"__food.py__" and "__drink.py__" are classes that return informations of
+food menu and drink menu, which are inherited from "__memu_item.py__"
